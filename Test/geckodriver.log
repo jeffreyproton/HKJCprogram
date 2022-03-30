@@ -1,0 +1,1576 @@
+1631881007989	geckodriver	INFO	Listening on 127.0.0.1:53087
+1631881011046	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilenBU6hG"
+1631881011388	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilenBU6hG\\search.json.mozlz4", (void 0)))
+1631881012982	Marionette	INFO	Listening on port 53095
+1631881013109	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1631881018232	Marionette	INFO	Stopped listening on port 53095
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631881118765	geckodriver	INFO	Listening on 127.0.0.1:53199
+1631881121835	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilefQnh7J"
+1631881122149	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilefQnh7J\\search.json.mozlz4", (void 0)))
+1631881123566	Marionette	INFO	Listening on port 53208
+1631881123881	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1631881129011	Marionette	INFO	Stopped listening on port 53208
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631881272575	geckodriver	INFO	Listening on 127.0.0.1:53299
+1631881275660	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileNi1Mk7"
+1631881276021	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileNi1Mk7\\search.json.mozlz4", (void 0)))
+1631881277453	Marionette	INFO	Listening on port 53308
+1631881277724	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1631881282905	Marionette	INFO	Stopped listening on port 53308
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631881804190	geckodriver	INFO	Listening on 127.0.0.1:53505
+1631881807256	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileG0i3yY"
+1631881807576	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileG0i3yY\\search.json.mozlz4", (void 0)))
+1631881809285	Marionette	INFO	Listening on port 53513
+1631881809318	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1631881814507	Marionette	INFO	Stopped listening on port 53513
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632080557447	geckodriver	INFO	Listening on 127.0.0.1:51131
+1632080560523	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilek0Z5rG"
+1632080560874	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilek0Z5rG\\search.json.mozlz4", (void 0)))
+1632080562383	Marionette	INFO	Listening on port 51139
+1632080562569	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632080565565	Marionette	INFO	Stopped listening on port 51139
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632080571351	geckodriver	INFO	Listening on 127.0.0.1:51215
+1632080574434	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofile3Fc6UE"
+1632080574775	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofile3Fc6UE\\search.json.mozlz4", (void 0)))
+1632080576323	Marionette	INFO	Listening on port 51223
+1632080576471	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632080581641	Marionette	INFO	Stopped listening on port 51223
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632151344246	geckodriver	INFO	Listening on 127.0.0.1:61904
+1632151347315	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileRIVPx6"
+1632151347686	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileRIVPx6\\search.json.mozlz4", (void 0)))
+1632151349604	Marionette	INFO	Listening on port 61912
+1632151349975	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632151357435	Marionette	INFO	Stopped listening on port 61912
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632333283039	geckodriver	INFO	Listening on 127.0.0.1:61357
+1632333286115	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileOPKvKO"
+1632333286479	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileOPKvKO\\search.json.mozlz4", (void 0)))
+1632333288013	Marionette	INFO	Listening on port 61365
+1632333288167	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632333293362	Marionette	INFO	Stopped listening on port 61365
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632333393130	geckodriver	INFO	Listening on 127.0.0.1:61445
+1632333396207	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilephPKNL"
+1632333396577	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilephPKNL\\search.json.mozlz4", (void 0)))
+1632333398139	Marionette	INFO	Listening on port 61453
+1632333398250	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632333406520	Marionette	INFO	Stopped listening on port 61453
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632333542808	geckodriver	INFO	Listening on 127.0.0.1:58750
+1632333545875	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileLObkuX"
+1632333546239	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileLObkuX\\search.json.mozlz4", (void 0)))
+1632333547807	Marionette	INFO	Listening on port 58758
+1632333547942	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632333553119	Marionette	INFO	Stopped listening on port 58758
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632333590934	geckodriver	INFO	Listening on 127.0.0.1:58833
+1632333594004	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileYJNkfP"
+1632333594369	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileYJNkfP\\search.json.mozlz4", (void 0)))
+1632333596032	Marionette	INFO	Listening on port 58841
+1632333596139	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632333604314	Marionette	INFO	Stopped listening on port 58841
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632333683370	geckodriver	INFO	Listening on 127.0.0.1:58918
+1632333686426	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileEX7Npx"
+1632333686789	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileEX7Npx\\search.json.mozlz4", (void 0)))
+1632333688343	Marionette	INFO	Listening on port 58926
+1632333688471	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632333693675	Marionette	INFO	Stopped listening on port 58926
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632333730527	geckodriver	INFO	Listening on 127.0.0.1:50824
+1632333733597	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofile9uliqY"
+1632333733959	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofile9uliqY\\search.json.mozlz4", (void 0)))
+1632333735439	Marionette	INFO	Listening on port 50833
+1632333735643	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632333743077	Marionette	INFO	Stopped listening on port 50833
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632334459838	geckodriver	INFO	Listening on 127.0.0.1:54653
+1632334462909	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileQBPpor"
+1632334463274	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileQBPpor\\search.json.mozlz4", (void 0)))
+1632334465132	Marionette	INFO	Listening on port 54661
+1632334465584	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632334470785	Marionette	INFO	Stopped listening on port 54661
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632334573965	geckodriver	INFO	Listening on 127.0.0.1:58024
+1632334577034	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilecZHkiu"
+1632334577413	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilecZHkiu\\search.json.mozlz4", (void 0)))
+1632334579487	Marionette	INFO	Listening on port 58032
+1632334579692	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632334584907	Marionette	INFO	Stopped listening on port 58032
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632404335103	geckodriver	INFO	Listening on 127.0.0.1:58919
+1632404338154	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofiledoycES"
+1632404338612	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofiledoycES\\search.json.mozlz4", (void 0)))
+1632404340388	Marionette	INFO	Listening on port 58927
+1632404340815	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632404348381	Marionette	INFO	Stopped listening on port 58927
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632404467746	geckodriver	INFO	Listening on 127.0.0.1:53963
+1632404470793	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileHXbC7u"
+1632404471155	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileHXbC7u\\search.json.mozlz4", (void 0)))
+1632404473235	Marionette	INFO	Listening on port 53971
+1632404473480	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632404478677	Marionette	INFO	Stopped listening on port 53971
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632404520948	geckodriver	INFO	Listening on 127.0.0.1:54050
+1632404524004	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileKbFYxU"
+1632404524369	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileKbFYxU\\search.json.mozlz4", (void 0)))
+1632404526185	Marionette	INFO	Listening on port 54058
+1632404526656	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632404534123	Marionette	INFO	Stopped listening on port 54058
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632404561026	geckodriver	INFO	Listening on 127.0.0.1:54132
+1632404564088	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilepvgLv6"
+1632404564444	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilepvgLv6\\search.json.mozlz4", (void 0)))
+1632404566414	Marionette	INFO	Listening on port 54140
+1632404566754	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632404571958	Marionette	INFO	Stopped listening on port 54140
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632404676634	geckodriver	INFO	Listening on 127.0.0.1:59262
+1632404679706	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofiledgQrie"
+1632404680070	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofiledgQrie\\search.json.mozlz4", (void 0)))
+1632404681823	Marionette	INFO	Listening on port 60710
+1632404681869	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632404687073	Marionette	INFO	Stopped listening on port 60710
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632404729918	geckodriver	INFO	Listening on 127.0.0.1:53674
+1632404732993	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileismct7"
+1632404733357	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileismct7\\search.json.mozlz4", (void 0)))
+1632404734925	Marionette	INFO	Listening on port 53682
+1632404735029	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632404740228	Marionette	INFO	Stopped listening on port 53682
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632404788412	geckodriver	INFO	Listening on 127.0.0.1:54114
+1632404791473	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileR3rQxa"
+1632404791836	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileR3rQxa\\search.json.mozlz4", (void 0)))
+1632404793744	Marionette	INFO	Listening on port 54122
+1632404794144	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632404799338	Marionette	INFO	Stopped listening on port 54122
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632404872502	geckodriver	INFO	Listening on 127.0.0.1:54196
+1632404875565	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofile5DA0Th"
+1632404875930	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofile5DA0Th\\search.json.mozlz4", (void 0)))
+1632404877491	Marionette	INFO	Listening on port 54204
+1632404877612	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632404882803	Marionette	INFO	Stopped listening on port 54204
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632405027147	geckodriver	INFO	Listening on 127.0.0.1:55692
+1632405030191	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileqAk14N"
+1632405030558	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileqAk14N\\search.json.mozlz4", (void 0)))
+1632405032231	Marionette	INFO	Listening on port 55700
+1632405032262	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632405037454	Marionette	INFO	Stopped listening on port 55700
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632405081183	geckodriver	INFO	Listening on 127.0.0.1:55784
+1632405084252	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileyWWKoV"
+1632405084618	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileyWWKoV\\search.json.mozlz4", (void 0)))
+1632405086248	Marionette	INFO	Listening on port 55792
+1632405086321	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632405104362	Marionette	INFO	Stopped listening on port 55791632405105550	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofile5cmbiO"
+1632405105912	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofile5cmbiO\\search.json.mozlz4", (void 0)))
+1632405107550	Marionette	INFO	Listening on port 55870
+1632405107621	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632405112814	Marionette	INFO	Stopped listening on port 55870
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632405501590	geckodriver	INFO	Listening on 127.0.0.1:57361
+1632405504659	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilewIgi4x"
+1632405505033	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilewIgi4x\\search.json.mozlz4", (void 0)))
+1632405506790	Marionette	INFO	Listening on port 57369
+1632405506824	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632405514346	Marionette	INFO	Stopped listening on port 57369
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632405682226	geckodriver	INFO	Listening on 127.0.0.1:63724
+1632405685316	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileyzxkL6"
+1632405685678	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileyzxkL6\\search.json.mozlz4", (void 0)))
+1632405687568	Marionette	INFO	Listening on port 63732
+1632405687970	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632405693160	Marionette	INFO	Stopped listening on port 63732
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632405750401	geckodriver	INFO	Listening on 127.0.0.1:63808
+1632405753458	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilebvmFJH"
+1632405753824	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilebvmFJH\\search.json.mozlz4", (void 0)))
+1632405755516	Marionette	INFO	Listening on port 63816
+1632405755616	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632405763887	Marionette	INFO	Stopped listening on port 63816
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632406163196	geckodriver	INFO	Listening on 127.0.0.1:55800
+1632406166256	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofile8hU27x"
+1632406166630	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofile8hU27x\\search.json.mozlz4", (void 0)))
+1632406168420	Marionette	INFO	Listening on port 55808
+1632406168940	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632406177112	Marionette	INFO	Stopped listening on port 55808
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632406202435	geckodriver	INFO	Listening on 127.0.0.1:55877
+1632406205514	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileOdYx7c"
+1632406205876	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileOdYx7c\\search.json.mozlz4", (void 0)))
+1632406207786	Marionette	INFO	Listening on port 55885
+1632406208197	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632406213381	Marionette	INFO	Stopped listening on port 55885
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632406286274	geckodriver	INFO	Listening on 127.0.0.1:64030
+1632406289347	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilewQeGU2"
+1632406289703	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilewQeGU2\\search.json.mozlz4", (void 0)))
+1632406291423	Marionette	INFO	Listening on port 64038
+1632406291522	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632406296739	Marionette	INFO	Stopped listening on port 64038
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632406393297	geckodriver	INFO	Listening on 127.0.0.1:63092
+1632406396378	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileGkQ8ZH"
+1632406396740	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileGkQ8ZH\\search.json.mozlz4", (void 0)))
+1632406398430	Marionette	INFO	Listening on port 63100
+1632406398537	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632406403754	Marionette	INFO	Stopped listening on port 63100
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632406461921	geckodriver	INFO	Listening on 127.0.0.1:51143
+1632406464987	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofile1txGRT"
+1632406465352	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofile1txGRT\\search.json.mozlz4", (void 0)))
+1632406467053	Marionette	INFO	Listening on port 51151
+1632406467146	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632406472347	Marionette	INFO	Stopped listening on port 51151
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632406530429	geckodriver	INFO	Listening on 127.0.0.1:62297
+1632406533503	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileJ9CIvP"
+1632406533870	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileJ9CIvP\\search.json.mozlz4", (void 0)))
+1632406535684	Marionette	INFO	Listening on port 62305
+1632406536200	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632406544434	Marionette	INFO	Stopped listening on port 62305
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632406587817	geckodriver	INFO	Listening on 127.0.0.1:62376
+1632406590880	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileJwUjG0"
+1632406591256	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileJwUjG0\\search.json.mozlz4", (void 0)))
+1632406593137	Marionette	INFO	Listening on port 62384
+1632406593553	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632406598757	Marionette	INFO	Stopped listening on port 62384
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632406617288	geckodriver	INFO	Listening on 127.0.0.1:62450
+1632406620363	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileySDxRn"
+1632406620720	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileySDxRn\\search.json.mozlz4", (void 0)))
+1632406622275	Marionette	INFO	Listening on port 62458
+1632406622413	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632406627616	Marionette	INFO	Stopped listening on port 62458
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632507686062	geckodriver	INFO	Listening on 127.0.0.1:50414
+1632507689144	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileddk4Zh"
+1632507689510	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileddk4Zh\\search.json.mozlz4", (void 0)))
+1632507691092	Marionette	INFO	Listening on port 50422
+1632507691192	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632507696443	Marionette	INFO	Stopped listening on port 50422
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632507714657	geckodriver	INFO	Listening on 127.0.0.1:50493
+1632507717737	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileW2CB7I"
+1632507718093	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileW2CB7I\\search.json.mozlz4", (void 0)))
+1632507719751	Marionette	INFO	Listening on port 50501
+1632507719776	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632507724957	Marionette	INFO	Stopped listening on port 50501
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632507811242	geckodriver	INFO	Listening on 127.0.0.1:64070
+1632507814314	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileiUpzfG"
+1632507814678	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileiUpzfG\\search.json.mozlz4", (void 0)))
+1632507816286	Marionette	INFO	Listening on port 64078
+1632507816383	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632507821598	Marionette	INFO	Stopped listening on port 64078
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632507849260	geckodriver	INFO	Listening on 127.0.0.1:64152
+1632507852332	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilenR7xKR"
+1632507852695	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilenR7xKR\\search.json.mozlz4", (void 0)))
+1632507854352	Marionette	INFO	Listening on port 64160
+1632507854374	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632507859597	Marionette	INFO	Stopped listening on port 64160
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632507973930	geckodriver	INFO	Listening on 127.0.0.1:59362
+1632507976987	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilemHFic9"
+1632507977354	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilemHFic9\\search.json.mozlz4", (void 0)))
+1632507979060	Marionette	INFO	Listening on port 59370
+1632507979162	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632507984348	Marionette	INFO	Stopped listening on port 59370
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632508007629	geckodriver	INFO	Listening on 127.0.0.1:59443
+1632508010708	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilem8srx5"
+1632508011073	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilem8srx5\\search.json.mozlz4", (void 0)))
+1632508012585	Marionette	INFO	Listening on port 59451
+1632508012752	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632508017942	Marionette	INFO	Stopped listening on port 59451
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632508059847	geckodriver	INFO	Listening on 127.0.0.1:59520
+1632508062910	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileUorABl"
+1632508063273	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileUorABl\\search.json.mozlz4", (void 0)))
+1632508064872	Marionette	INFO	Listening on port 59528
+1632508064961	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632508070161	Marionette	INFO	Stopped listening on port 59528
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632508134116	geckodriver	INFO	Listening on 127.0.0.1:64449
+1632508137194	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofile4vQ37N"
+1632508137561	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofile4vQ37N\\search.json.mozlz4", (void 0)))
+1632508139158	Marionette	INFO	Listening on port 64457
+1632508139243	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632508574425	Marionette	INFO	Stopped listening on port 64457
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ttings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileTLq6wX\\search.json.mozlz4", (void 0)))
+1632508187989	Marionette	INFO	Listening on port 64537
+1632508188100	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632508196235	Marionette	INFO	Stopped listening on port 64537
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632508237833	geckodriver	INFO	Listening on 127.0.0.1:64608
+1632508240915	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilejIXlZr"
+1632508241252	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilejIXlZr\\search.json.mozlz4", (void 0)))
+1632508242764	Marionette	INFO	Listening on port 64616
+1632508242959	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632508251113	Marionette	INFO	Stopped listening on port 64616
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632508265341	geckodriver	INFO	Listening on 127.0.0.1:64686
+1632508268409	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofile0a49Sr"
+1632508268746	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofile0a49Sr\\search.json.mozlz4", (void 0)))
+1632508270413	Marionette	INFO	Listening on port 64694
+1632508270457	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632508275644	Marionette	INFO	Stopped listening on port 64694
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632508314126	geckodriver	INFO	Listening on 127.0.0.1:64767
+1632508317206	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileslymRX"
+1632508317543	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileslymRX\\search.json.mozlz4", (void 0)))
+1632508319054	Marionette	INFO	Listening on port 64775
+1632508319235	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632508324462	Marionette	INFO	Stopped listening on port 64775
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632508352270	geckodriver	INFO	Listening on 127.0.0.1:59364
+1632508355350	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilerBvvVP"
+1632508355693	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilerBvvVP\\search.json.mozlz4", (void 0)))
+1632508357206	Marionette	INFO	Listening on port 59372
+1632508357414	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632508362601	Marionette	INFO	Stopped listening on port 59372
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632508410759	geckodriver	INFO	Listening on 127.0.0.1:58348
+1632508413815	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileVuqnDm"
+1632508414158	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileVuqnDm\\search.json.mozlz4", (void 0)))
+1632508415667	Marionette	INFO	Listening on port 58356
+1632508415865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632508421051	Marionette	INFO	Stopped listening on port 58356
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632508462312	geckodriver	INFO	Listening on 127.0.0.1:52278
+1632508465394	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofiled3tKpS"
+1632508465728	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofiled3tKpS\\search.json.mozlz4", (void 0)))
+1632508467233	Marionette	INFO	Listening on port 52286
+1632508467440	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632508472627	Marionette	INFO	Stopped listening on port 52286
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632508510524	geckodriver	INFO	Listening on 127.0.0.1:52350
+1632508513582	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofile0JjkgH"
+1632508513917	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofile0JjkgH\\search.json.mozlz4", (void 0)))
+1632508515566	Marionette	INFO	Listening on port 52358
+1632508515647	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632508520876	Marionette	INFO	Stopped listening on port 52358
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632508567700	geckodriver	INFO	Listening on 127.0.0.1:52428
+1632508570777	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileySd0AA"
+1632508571123	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileySd0AA\\search.json.mozlz4", (void 0)))
+1632508572638	Marionette	INFO	Listening on port 52436
+1632508572819	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632508577011	Marionette	INFO	Stopped listening on port 52436
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632508591899	geckodriver	INFO	Listening on 127.0.0.1:52503
+1632508594973	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileDvIwNI"
+1632508595335	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileDvIwNI\\search.json.mozlz4", (void 0)))
+1632508597003	Marionette	INFO	Listening on port 52511
+1632508597033	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632508602204	Marionette	INFO	Stopped listening on port 52511
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632599882425	geckodriver	INFO	Listening on 127.0.0.1:55397
+1632599885509	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilesAeTTR"
+1632599885922	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilesAeTTR\\search.json.mozlz4", (void 0)))
+1632599887532	Marionette	INFO	Listening on port 55405
+1632599887652	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632599892928	Marionette	INFO	Stopped listening on port 55405
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632599938915	geckodriver	INFO	Listening on 127.0.0.1:52453
+1632599941988	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofile4xFRRQ"
+1632599942378	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofile4xFRRQ\\search.json.mozlz4", (void 0)))
+1632599943893	Marionette	INFO	Listening on port 52461
+1632599944038	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632599949252	Marionette	INFO	Stopped listening on port 52461
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 15632, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1632599961601	geckodriver	INFO	Listening on 127.0.0.1:52580
+1632599964675	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileG0RcZF"
+1632599965040	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileG0RcZF\\search.json.mozlz4", (void 0)))
+1632599966698	Marionette	INFO	Listening on port 59003
+1632599966729	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632599971923	Marionette	INFO	Stopped listening on port 59003
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632600082311	geckodriver	INFO	Listening on 127.0.0.1:58746
+1632600085393	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilecJSpOI"
+1632600085767	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilecJSpOI\\search.json.mozlz4", (void 0)))
+1632600087356	Marionette	INFO	Listening on port 58754
+1632600087476	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632600092669	Marionette	INFO	Stopped listening on port 58754
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632600126066	geckodriver	INFO	Listening on 127.0.0.1:58827
+1632600129157	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilefPcF7E"
+1632600129522	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilefPcF7E\\search.json.mozlz4", (void 0)))
+1632600131168	Marionette	INFO	Listening on port 58835
+1632600131213	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632600136425	Marionette	INFO	Stopped listening on port 58835
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632600194101	geckodriver	INFO	Listening on 127.0.0.1:58902
+1632600197160	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileypA9iR"
+1632600197525	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileypA9iR\\search.json.mozlz4", (void 0)))
+1632600199437	Marionette	INFO	Listening on port 58910
+1632600199816	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632600205002	Marionette	INFO	Stopped listening on port 58910
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632600250122	geckodriver	INFO	Listening on 127.0.0.1:58975
+1632600253175	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilee8Gzh4"
+1632600253541	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilee8Gzh4\\search.json.mozlz4", (void 0)))
+1632600255098	Marionette	INFO	Listening on port 58983
+1632600255219	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632600260409	Marionette	INFO	Stopped listening on port 58983
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632675637596	geckodriver	INFO	Listening on 127.0.0.1:51515
+1632675640653	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileBhNFj9"
+1632675641066	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileBhNFj9\\search.json.mozlz4", (void 0)))
+1632675642977	Marionette	INFO	Listening on port 51523
+1632675643325	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632675648540	Marionette	INFO	Stopped listening on port 51523
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632675814302	geckodriver	INFO	Listening on 127.0.0.1:54684
+1632675817371	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileDqDIU0"
+1632675817757	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileDqDIU0\\search.json.mozlz4", (void 0)))
+1632675819313	Marionette	INFO	Listening on port 54692
+1632675819420	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632675824621	Marionette	INFO	Stopped listening on port 54692
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632675856205	geckodriver	INFO	Listening on 127.0.0.1:61387
+1632675859276	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileKXJaTH"
+1632675859658	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileKXJaTH\\search.json.mozlz4", (void 0)))
+1632675861457	Marionette	INFO	Listening on port 61395
+1632675861949	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632675867185	Marionette	INFO	Stopped listening on port 61395
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632676716069	geckodriver	INFO	Listening on 127.0.0.1:65391
+1632676719151	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileZYudNT"
+1632676719540	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileZYudNT\\search.json.mozlz4", (void 0)))
+1632676721224	Marionette	INFO	Listening on port 65399
+1632676721308	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632676726493	Marionette	INFO	Stopped listening on port 65399
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632676764481	geckodriver	INFO	Listening on 127.0.0.1:65473
+1632676767557	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileKEPZl0"
+1632676767918	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileKEPZl0\\search.json.mozlz4", (void 0)))
+1632676769477	Marionette	INFO	Listening on port 65481
+1632676769604	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632676774821	Marionette	INFO	Stopped listening on port 65481
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632851081185	geckodriver	INFO	Listening on 127.0.0.1:51272
+1632851084265	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileLE32KT"
+1632851084671	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileLE32KT\\search.json.mozlz4", (void 0)))
+1632851086420	Marionette	INFO	Listening on port 51280
+1632851086942	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632851092141	Marionette	INFO	Stopped listening on port 51280
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632851224693	geckodriver	INFO	Listening on 127.0.0.1:61100
+1632851227758	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilel8JZYG"
+1632851228112	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilel8JZYG\\search.json.mozlz4", (void 0)))
+1632851229750	Marionette	INFO	Listening on port 61108
+1632851229814	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632851237295	Marionette	INFO	Stopped listening on port 61108
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632851291174	geckodriver	INFO	Listening on 127.0.0.1:61183
+1632851294244	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofile8KYnTO"
+1632851294623	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofile8KYnTO\\search.json.mozlz4", (void 0)))
+1632851296317	Marionette	INFO	Listening on port 61191
+1632851296380	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632851301565	Marionette	INFO	Stopped listening on port 61191
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632851351980	geckodriver	INFO	Listening on 127.0.0.1:65414
+1632851355036	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileZ33GXZ"
+1632851355395	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileZ33GXZ\\search.json.mozlz4", (void 0)))
+1632851357050	Marionette	INFO	Listening on port 65423
+1632851357093	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632851362289	Marionette	INFO	Stopped listening on port 65423
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632851607276	geckodriver	INFO	Listening on 127.0.0.1:55865
+1632851610355	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilenCxSn5"
+1632851610716	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilenCxSn5\\search.json.mozlz4", (void 0)))
+1632851612568	Marionette	INFO	Listening on port 63607
+1632851613028	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632851909401	Marionette	INFO	Stopped listening on port 63607
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\Temp\\rust_mozprofileTZGCEQ"
+1632851695284	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileTZGCEQ\\search.json.mozlz4", (void 0)))
+1632851696846	Marionette	INFO	Listening on port 50466
+1632851696982	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632851702155	Marionette	INFO	Stopped listening on port 50466
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632851743932	geckodriver	INFO	Listening on 127.0.0.1:56434
+1632851746982	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilewbqUy1"
+1632851747320	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilewbqUy1\\search.json.mozlz4", (void 0)))
+1632851748819	Marionette	INFO	Listening on port 60707
+1632851749038	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632851908373	Marionette	INFO	Stopped listening on port 60707
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ttings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileAYCZC7\\search.json.mozlz4", (void 0)))
+1632851767936	Marionette	INFO	Listening on port 60917
+1632851768048	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632851773221	Marionette	INFO	Stopped listening on port 60917
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632851898050	geckodriver	INFO	Listening on 127.0.0.1:61231
+1632851901125	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileRJAFG7"
+1632851901464	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileRJAFG7\\search.json.mozlz4", (void 0)))
+1632851902985	Marionette	INFO	Listening on port 58531
+1632851903175	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632851906943	Marionette	INFO	Stopped listening on port 58531
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632851917391	geckodriver	INFO	Listening on 127.0.0.1:54225
+1632851920462	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofile6jIQyu"
+1632851920825	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofile6jIQyu\\search.json.mozlz4", (void 0)))
+1632851922448	Marionette	INFO	Listening on port 51998
+1632851922522	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632852274982	Marionette	INFO	Stopped listening on port 51998
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\Temp\\rust_mozprofile8vPO5d"
+1632851951072	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofile8vPO5d\\search.json.mozlz4", (void 0)))
+1632851952643	Marionette	INFO	Listening on port 50820
+1632851952768	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632851957957	Marionette	INFO	Stopped listening on port 50820
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632852042245	geckodriver	INFO	Listening on 127.0.0.1:59804
+1632852045323	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofile5Jmo5T"
+1632852045665	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofile5Jmo5T\\search.json.mozlz4", (void 0)))
+1632852047231	Marionette	INFO	Listening on port 53222
+1632852047378	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632852052560	Marionette	INFO	Stopped listening on port 53222
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632852091517	geckodriver	INFO	Listening on 127.0.0.1:57890
+1632852094581	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilednbc78"
+1632852094919	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilednbc78\\search.json.mozlz4", (void 0)))
+1632852096432	Marionette	INFO	Listening on port 61534
+1632852096634	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632852101825	Marionette	INFO	Stopped listening on port 61534
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632852126208	geckodriver	INFO	Listening on 127.0.0.1:62745
+1632852129285	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileZ8dhwK"
+1632852129621	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileZ8dhwK\\search.json.mozlz4", (void 0)))
+1632852131116	Marionette	INFO	Listening on port 56557
+1632852131337	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632852136538	Marionette	INFO	Stopped listening on port 56557
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632852227281	geckodriver	INFO	Listening on 127.0.0.1:62226
+1632852230356	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileQc9C1Y"
+1632852230703	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileQc9C1Y\\search.json.mozlz4", (void 0)))
+1632852232209	Marionette	INFO	Listening on port 64915
+1632852232426	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632852237607	Marionette	INFO	Stopped listening on port 64915
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632852248897	geckodriver	INFO	Listening on 127.0.0.1:54514
+1632852251975	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileyi5vOg"
+1632852252309	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileyi5vOg\\search.json.mozlz4", (void 0)))
+1632852253824	Marionette	INFO	Listening on port 55248
+1632852254021	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632852259180	Marionette	INFO	Stopped listening on port 55248
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632939095222	geckodriver	INFO	Listening on 127.0.0.1:54363
+1632939098298	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileVKSHJP"
+1632939136129	geckodriver	INFO	Listening on 127.0.0.1:57227
+1632939139206	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileOrpQcZ"
+1632939139576	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileOrpQcZ\\search.json.mozlz4", (void 0)))
+1632939141176	Marionette	INFO	Listening on port 57235
+1632939141244	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632939146470	Marionette	INFO	Stopped listening on port 57235
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632939442130	geckodriver	INFO	Listening on 127.0.0.1:58115
+1632939445209	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileoGIP1w"
+1632939445574	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileoGIP1w\\search.json.mozlz4", (void 0)))
+1632939447091	Marionette	INFO	Listening on port 58123
+1632939447258	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632939452459	Marionette	INFO	Stopped listening on port 58123
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632939553152	geckodriver	INFO	Listening on 127.0.0.1:58198
+1632939556228	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileu9bOID"
+1632939556594	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileu9bOID\\search.json.mozlz4", (void 0)))
+1632939558123	Marionette	INFO	Listening on port 58206
+1632939558270	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1632939563455	Marionette	INFO	Stopped listening on port 58206
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633016055493	geckodriver	INFO	Listening on 127.0.0.1:60836
+1633016058579	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileiFjw55"
+1633016058974	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileiFjw55\\search.json.mozlz4", (void 0)))
+1633016060574	Marionette	INFO	Listening on port 60846
+1633016060621	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1633016068352	Marionette	INFO	Stopped listening on port 60846
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633016099393	geckodriver	INFO	Listening on 127.0.0.1:60932
+1633016102467	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofile8KGZmI"
+1633016102836	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofile8KGZmI\\search.json.mozlz4", (void 0)))
+1633016104474	Marionette	INFO	Listening on port 60940
+1633016104527	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1633016109739	Marionette	INFO	Stopped listening on port 60940
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633016137648	geckodriver	INFO	Listening on 127.0.0.1:61015
+1633016140715	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileUEisIp"
+1633016141081	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileUEisIp\\search.json.mozlz4", (void 0)))
+1633016142750	Marionette	INFO	Listening on port 61023
+1633016142771	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1633016147973	Marionette	INFO	Stopped listening on port 61023
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633016170610	geckodriver	INFO	Listening on 127.0.0.1:61094
+1633016173680	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileNoLLvn"
+1633016174044	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileNoLLvn\\search.json.mozlz4", (void 0)))
+1633016175596	Marionette	INFO	Listening on port 61102
+1633016175740	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1633016180942	Marionette	INFO	Stopped listening on port 61102
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633016215682	geckodriver	INFO	Listening on 127.0.0.1:55497
+1633016218762	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilePW9yMn"
+1633016219129	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilePW9yMn\\search.json.mozlz4", (void 0)))
+1633016220710	Marionette	INFO	Listening on port 55506
+1633016220820	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1633016226021	Marionette	INFO	Stopped listening on port 55506
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633016267098	geckodriver	INFO	Listening on 127.0.0.1:52975
+1633016270168	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileiKIfXj"
+1633016270529	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileiKIfXj\\search.json.mozlz4", (void 0)))
+1633016272179	Marionette	INFO	Listening on port 52983
+1633016272223	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1633016277403	Marionette	INFO	Stopped listening on port 52983
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633016307743	geckodriver	INFO	Listening on 127.0.0.1:58760
+1633016310818	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilenZoTSC"
+1633016311187	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilenZoTSC\\search.json.mozlz4", (void 0)))
+1633016312907	Marionette	INFO	Listening on port 58769
+1633016312972	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1633016318203	Marionette	INFO	Stopped listening on port 58769
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633016365379	geckodriver	INFO	Listening on 127.0.0.1:60900
+1633016368446	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileD4yoLf"
+1633016368815	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileD4yoLf\\search.json.mozlz4", (void 0)))
+1633016370463	Marionette	INFO	Listening on port 60908
+1633016370512	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1633016375710	Marionette	INFO	Stopped listening on port 60908
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633016508662	geckodriver	INFO	Listening on 127.0.0.1:62306
+1633016511739	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofile60ZZeT"
+1633016512107	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofile60ZZeT\\search.json.mozlz4", (void 0)))
+1633016513607	Marionette	INFO	Listening on port 62314
+1633016513782	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1633016518976	Marionette	INFO	Stopped listening on port 62314
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633016544953	geckodriver	INFO	Listening on 127.0.0.1:62383
+1633016548031	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileEosMKc"
+1633016548394	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileEosMKc\\search.json.mozlz4", (void 0)))
+1633016550037	Marionette	INFO	Listening on port 62391
+1633016550093	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1633016555330	Marionette	INFO	Stopped listening on port 62391
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633016715331	geckodriver	INFO	Listening on 127.0.0.1:50170
+1633016718394	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileCQruf5"
+1633016718759	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileCQruf5\\search.json.mozlz4", (void 0)))
+1633016720441	Marionette	INFO	Listening on port 50178
+1633016720459	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1633016725645	Marionette	INFO	Stopped listening on port 50178
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633016737323	geckodriver	INFO	Listening on 127.0.0.1:50244
+1633016740397	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilemggZq7"
+1633016740767	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilemggZq7\\search.json.mozlz4", (void 0)))
+1633016742417	Marionette	INFO	Listening on port 50254
+1633016742447	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1633016747645	Marionette	INFO	Stopped listening on port 50254
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633016937397	geckodriver	INFO	Listening on 127.0.0.1:63032
+1633016940471	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileLvhsGZ"
+1633016940838	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileLvhsGZ\\search.json.mozlz4", (void 0)))
+1633016942631	Marionette	INFO	Listening on port 63040
+1633016943142	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1633016948335	Marionette	INFO	Stopped listening on port 63040
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633016996687	geckodriver	INFO	Listening on 127.0.0.1:63108
+1633016999762	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileNYX7NR"
+1633017000127	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileNYX7NR\\search.json.mozlz4", (void 0)))
+1633017001658	Marionette	INFO	Listening on port 63116
+1633017001815	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1633017007010	Marionette	INFO	Stopped listening on port 63116
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633017028600	geckodriver	INFO	Listening on 127.0.0.1:63180
+1633017031667	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofile7pVMFg"
+1633017032022	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofile7pVMFg\\search.json.mozlz4", (void 0)))
+1633017033532	Marionette	INFO	Listening on port 63188
+1633017033708	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1633017038892	Marionette	INFO	Stopped listening on port 63188
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633017152354	geckodriver	INFO	Listening on 127.0.0.1:53423
+1633017155432	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileIBpxb6"
+1633017155793	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileIBpxb6\\search.json.mozlz4", (void 0)))
+1633017157591	Marionette	INFO	Listening on port 53431
+1633017158114	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1633017163286	Marionette	INFO	Stopped listening on port 53431
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633017178422	geckodriver	INFO	Listening on 127.0.0.1:53495
+1633017181493	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileQLC0WT"
+1633017181858	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileQLC0WT\\search.json.mozlz4", (void 0)))
+1633017183485	Marionette	INFO	Listening on port 53503
+1633017183551	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1633017188752	Marionette	INFO	Stopped listening on port 53503
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633017298100	geckodriver	INFO	Listening on 127.0.0.1:53571
+1633017301185	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileLiGG6W"
+1633017301545	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileLiGG6W\\search.json.mozlz4", (void 0)))
+1633017303059	Marionette	INFO	Listening on port 53579
+1633017303241	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1633017308432	Marionette	INFO	Stopped listening on port 53579
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633093610130	geckodriver	INFO	Listening on 127.0.0.1:60680
+1633093613221	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofiledrAN6Y"
+1633093613668	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofiledrAN6Y\\search.json.mozlz4", (void 0)))
+1633093615395	Marionette	INFO	Listening on port 60688
+1633093615892	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1633093621109	Marionette	INFO	Stopped listening on port 60688
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633093637765	geckodriver	INFO	Listening on 127.0.0.1:64132
+1633093640817	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileoJl4lO"
+1633093641196	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileoJl4lO\\search.json.mozlz4", (void 0)))
+1633093642869	Marionette	INFO	Listening on port 64140
+1633093642972	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1633093651208	Marionette	INFO	Stopped listening on port 64140
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633093683398	geckodriver	INFO	Listening on 127.0.0.1:62840
+1633093686479	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileqHg2yK"
+1633093686840	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileqHg2yK\\search.json.mozlz4", (void 0)))
+1633093688616	Marionette	INFO	Listening on port 62850
+1633093688651	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1633093696089	Marionette	INFO	Stopped listening on port 62850
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633094032820	geckodriver	INFO	Listening on 127.0.0.1:61633
+1633094035901	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilepiUuu1"
+1633094036259	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilepiUuu1\\search.json.mozlz4", (void 0)))
+1633094037927	Marionette	INFO	Listening on port 61641
+1633094037944	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1633094043137	Marionette	INFO	Stopped listening on port 61641
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633094184142	geckodriver	INFO	Listening on 127.0.0.1:57845
+1633094187209	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilevOoUBr"
+1633094187569	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilevOoUBr\\search.json.mozlz4", (void 0)))
+1633094189232	Marionette	INFO	Listening on port 57855
+1633094189256	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1633094194451	Marionette	INFO	Stopped listening on port 57855
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633094231458	geckodriver	INFO	Listening on 127.0.0.1:57928
+1633094234543	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileOZtNqz"
+1633094234911	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileOZtNqz\\search.json.mozlz4", (void 0)))
+1633094236763	Marionette	INFO	Listening on port 57936
+1633094237207	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1633094242397	Marionette	INFO	Stopped listening on port 57936
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633094392722	geckodriver	INFO	Listening on 127.0.0.1:64695
+1633094395796	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofile5VezdM"
+1633094396155	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofile5VezdM\\search.json.mozlz4", (void 0)))
+1633094397817	Marionette	INFO	Listening on port 64703
+1633094397853	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1633094403043	Marionette	INFO	Stopped listening on port 64703
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633094419382	geckodriver	INFO	Listening on 127.0.0.1:64776
+1633094422464	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileSxgxAH"
+1633094422821	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileSxgxAH\\search.json.mozlz4", (void 0)))
+1633094424365	Marionette	INFO	Listening on port 64784
+1633094424527	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1633094431917	Marionette	INFO	Stopped listening on port 64784
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633094492030	geckodriver	INFO	Listening on 127.0.0.1:64852
+1633094495108	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileZk9Aze"
+1633094495474	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileZk9Aze\\search.json.mozlz4", (void 0)))
+1633094497003	Marionette	INFO	Listening on port 64863
+1633094497158	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1633094502355	Marionette	INFO	Stopped listening on port 64863
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633188249363	geckodriver	INFO	Listening on 127.0.0.1:52633
+1633188252440	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileqobQA1"
+1633188252839	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileqobQA1\\search.json.mozlz4", (void 0)))
+1633188254514	Marionette	INFO	Listening on port 52641
+1633188254603	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1633188262846	Marionette	INFO	Stopped listening on port 52641
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633188363470	geckodriver	INFO	Listening on 127.0.0.1:53139
+1633188366537	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilebyW02I"
+1633188366910	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilebyW02I\\search.json.mozlz4", (void 0)))
+1633188368498	Marionette	INFO	Listening on port 53147
+1633188368582	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1633188373777	Marionette	INFO	Stopped listening on port 53147
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633188441260	geckodriver	INFO	Listening on 127.0.0.1:62351
+1633188444321	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilejsJroX"
+1633188444703	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilejsJroX\\search.json.mozlz4", (void 0)))
+1633188446298	Marionette	INFO	Listening on port 62361
+1633188446368	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1633188451607	Marionette	INFO	Stopped listening on port 62361
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633188473808	geckodriver	INFO	Listening on 127.0.0.1:56245
+1633188476888	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileO9pmhU"
+1633188477249	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileO9pmhU\\search.json.mozlz4", (void 0)))
+1633188478991	Marionette	INFO	Listening on port 56253
+1633188479044	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1633188484244	Marionette	INFO	Stopped listening on port 56253
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633188569198	geckodriver	INFO	Listening on 127.0.0.1:61405
+1633188572283	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofile3OBU5e"
+1633188572644	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofile3OBU5e\\search.json.mozlz4", (void 0)))
+1633188574151	Marionette	INFO	Listening on port 61413
+1633188574332	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1633188601245	Marionette	INFO	Stopped listening on port 61411633188602148	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofile7wpYV4"
+1633188602515	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofile7wpYV4\\search.json.mozlz4", (void 0)))
+1633188604024	Marionette	INFO	Listening on port 56878
+1633188604196	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1633188609373	Marionette	INFO	Stopped listening on port 56878
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633188662067	geckodriver	INFO	Listening on 127.0.0.1:56951
+1633188665136	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofile89aVIs"
+1633188665500	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofile89aVIs\\search.json.mozlz4", (void 0)))
+1633188667015	Marionette	INFO	Listening on port 56959
+1633188667176	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1633188672362	Marionette	INFO	Stopped listening on port 56959
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633188706630	geckodriver	INFO	Listening on 127.0.0.1:57035
+1633188709710	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileK1Onei"
+1633188710065	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileK1Onei\\search.json.mozlz4", (void 0)))
+1633188711680	Marionette	INFO	Listening on port 57043
+1633188711759	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1633188716953	Marionette	INFO	Stopped listening on port 57043
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633188738823	geckodriver	INFO	Listening on 127.0.0.1:57112
+1633188741907	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileb4eDaz"
+1633188742273	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileb4eDaz\\search.json.mozlz4", (void 0)))
+1633188743929	Marionette	INFO	Listening on port 57120
+1633188743970	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1633188749168	Marionette	INFO	Stopped listening on port 57120
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633188825351	geckodriver	INFO	Listening on 127.0.0.1:57202
+1633188828430	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilecUHAst"
+1633188828794	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilecUHAst\\search.json.mozlz4", (void 0)))
+1633188830295	Marionette	INFO	Listening on port 57210
+1633188830491	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1633188835669	Marionette	INFO	Stopped listening on port 57210
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633188855741	geckodriver	INFO	Listening on 127.0.0.1:57288
+1633188858808	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileAWxrjX"
+1633188859168	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileAWxrjX\\search.json.mozlz4", (void 0)))
+1633188860727	Marionette	INFO	Listening on port 57296
+1633188860828	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1633188866022	Marionette	INFO	Stopped listening on port 57296
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635358330818	geckodriver	INFO	Listening on 127.0.0.1:63395
+1635358333911	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofiletyNUl9"
+1635358334364	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofiletyNUl9\\search.json.mozlz4", (void 0)))
+1635358335835	Marionette	INFO	Listening on port 63404
+1635358335974	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1635358341216	Marionette	INFO	Stopped listening on port 63404
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1635358491342	geckodriver	INFO	Listening on 127.0.0.1:63626
+1635358494403	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileTJbLQc"
+1635358494774	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileTJbLQc\\search.json.mozlz4", (void 0)))
+1635358496298	Marionette	INFO	Listening on port 63638
+1635358496460	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1635358501658	Marionette	INFO	Stopped listening on port 63638
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635358851699	geckodriver	INFO	Listening on 127.0.0.1:64113
+1635358854760	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofile3EqO3E"
+1635358855130	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofile3EqO3E\\search.json.mozlz4", (void 0)))
+1635358856779	Marionette	INFO	Listening on port 64126
+1635358856807	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1635358862073	Marionette	INFO	Stopped listening on port 64126
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1635358969765	geckodriver	INFO	Listening on 127.0.0.1:64277
+1635358972859	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofile258peq"
+1635358973231	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofile258peq\\search.json.mozlz4", (void 0)))
+1635358974724	Marionette	INFO	Listening on port 64286
+1635358974904	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1635358980108	Marionette	INFO	Stopped listening on port 64286
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635359058370	geckodriver	INFO	Listening on 127.0.0.1:64421
+1635359061463	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileKPGA89"
+1635359061837	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileKPGA89\\search.json.mozlz4", (void 0)))
+1635359063350	Marionette	INFO	Listening on port 64431
+1635359063510	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1635359068700	Marionette	INFO	Stopped listening on port 64431
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1635446886359	geckodriver	INFO	Listening on 127.0.0.1:57259
+1635446889468	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileDrK6Nr"
+1635446889871	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileDrK6Nr\\search.json.mozlz4", (void 0)))
+1635446891738	Marionette	INFO	Listening on port 57270
+1635446892127	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1635446897332	Marionette	INFO	Stopped listening on port 57270
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635446973681	geckodriver	INFO	Listening on 127.0.0.1:57391
+1635446976774	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileq9FmC6"
+1635446977142	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileq9FmC6\\search.json.mozlz4", (void 0)))
+1635446978652	Marionette	INFO	Listening on port 57399
+1635446978819	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1635446984032	Marionette	INFO	Stopped listening on port 57399
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1635447063715	geckodriver	INFO	Listening on 127.0.0.1:57507
+1635447066798	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileetosMv"
+1635447067165	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileetosMv\\search.json.mozlz4", (void 0)))
+1635447068721	Marionette	INFO	Listening on port 57515
+1635447068853	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1635447074040	Marionette	INFO	Stopped listening on port 57515
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1635447265288	geckodriver	INFO	Listening on 127.0.0.1:57624
+1635447268381	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileNAL6wG"
+1635447268748	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileNAL6wG\\search.json.mozlz4", (void 0)))
+1635447270386	Marionette	INFO	Listening on port 57633
+1635447270426	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1635447275627	Marionette	INFO	Stopped listening on port 57633
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635447302809	geckodriver	INFO	Listening on 127.0.0.1:57718
+1635447305871	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileYJ73zi"
+1635447306233	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileYJ73zi\\search.json.mozlz4", (void 0)))
+1635447307733	Marionette	INFO	Listening on port 57726
+1635447307916	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1635447313116	Marionette	INFO	Stopped listening on port 57726
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635447393708	geckodriver	INFO	Listening on 127.0.0.1:57806
+1635447396801	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileEH1PJR"
+1635447397167	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileEH1PJR\\search.json.mozlz4", (void 0)))
+1635447398655	Marionette	INFO	Listening on port 57814
+1635447398848	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1635447404028	Marionette	INFO	Stopped listening on port 57814
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635447519911	geckodriver	INFO	Listening on 127.0.0.1:57928
+1635447522987	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileEPmOQz"
+1635447523347	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileEPmOQz\\search.json.mozlz4", (void 0)))
+1635447524872	Marionette	INFO	Listening on port 57936
+1635447525057	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1635447530278	Marionette	INFO	Stopped listening on port 57936
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1635530616361	geckodriver	INFO	Listening on 127.0.0.1:53861
+1635530619454	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileeRVaDi"
+1635530619875	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofileeRVaDi\\search.json.mozlz4", (void 0)))
+1635530621556	Marionette	INFO	Listening on port 53875
+1635530621610	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1635530626834	Marionette	INFO	Stopped listening on port 53875
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1636219172062	geckodriver	INFO	Listening on 127.0.0.1:59317
+1636219175131	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilep0GLb9"
+1636219175818	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jeffr\\AppData\\Local\\Temp\\rust_mozprofilep0GLb9\\search.json.mozlz4", (void 0)))
+1636219177852	Marionette	INFO	Listening on port 59326
+1636219178303	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://racing.hkjc.com/racing/Info/Scripts/jquery-1.4.1.min.js, line 56: unreachable code after return statement
+JavaScript warning: https://racing.hkjc.com/racing/info/GlobalMenu/Chinese/js/global.js, line 1775: unreachable code after return statement
+1636219183596	Marionette	INFO	Stopped listening on port 59326
